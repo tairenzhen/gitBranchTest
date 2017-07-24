@@ -1,0 +1,1 @@
+1. 测试git checkout与git reset 恢复文件状态
