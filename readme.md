@@ -3,8 +3,8 @@
 
 
 #### master
-1. 在master中添加了内容
+1. 添加了master的内容
 
 
-#### branch
-1. 添加了branch的内容
+#### develop
+1. 添加了develop的内容
